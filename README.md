@@ -12,7 +12,7 @@ In addition to the required analysis for this module, some additonal analysis wa
 
 ### Repository Notes
 
-JSON file from part 1 and CSV file from part 2 are saved in the 'output' folder in the repository.  
+JSON file from part 1 and CSV file from part 2 are saved in the ['output'](https://github.com/knazario/11_Web_Scraping_Project/tree/main/output) folder in the repository.  
 
 
 ### Code Source
